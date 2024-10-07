@@ -5,7 +5,7 @@ Future initFirebase() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
         options: const FirebaseOptions(
-            apiKey: "AIzaSyC60LWWGMOA6bWdiPvXey2E8z5xeSdFuPM",
+            apiKey: "",
             authDomain: "meal-planner-3841f.firebaseapp.com",
             projectId: "meal-planner-3841f",
             storageBucket: "meal-planner-3841f.appspot.com",
