@@ -32,7 +32,7 @@ Here are some screenshots of the app in action:
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone [[repository-url](https://github.com/JeremyHafley/HeyCoach)]
    ```
 2. Navigate to the project directory:
    ```bash
